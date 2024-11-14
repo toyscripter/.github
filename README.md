@@ -1,1 +1,5 @@
-# .github
+## Inspirations
+
+- Discworld MUD
+- Kingsway
+- Ragnarok Online
